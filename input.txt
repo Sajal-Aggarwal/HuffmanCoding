@@ -1,0 +1,1 @@
+Data compression is a process by which files of different formats can be compressed, thus helping optimise storage space by packing more data into the same space.
